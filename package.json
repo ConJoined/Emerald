@@ -11,7 +11,7 @@
 
   "scripts": {
 
-    "start": "node Brain.js"
+    "start": "node shard-loc.js"
 
   },
 
