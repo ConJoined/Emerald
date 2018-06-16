@@ -1,0 +1,26 @@
+{
+  "name": "Package",
+  "version": "1.0.0",
+  "description": "Pigeon Package",
+  "main": "shard-loc.js",
+  "engines": {
+      "node": "8.x",
+      "npm": "*"
+  },
+  "main": "shard-loc.js",
+
+  "scripts": {
+
+    "start": "node Brain.js"
+
+  },
+
+  "dependencies": {
+
+    "discord.js": "11.1.0",
+
+    "request": "2.81.0"
+
+  }
+
+}
