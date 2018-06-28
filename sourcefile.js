@@ -34,4 +34,4 @@ fs.readdir("./modules/runtime/", (err, files) => {
     client.syscmds.set(commandName, props);
   });
 });
-client.login(process.env.clientruntime);
+client.login(process.env.clientruntime)
